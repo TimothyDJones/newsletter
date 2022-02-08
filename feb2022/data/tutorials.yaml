@@ -1,0 +1,41 @@
+---
+- type: Tutorial/Reference
+  title: "YAML vs. JSON: What is the difference?"
+  url: https://www.imaginarycloud.com/blog/yaml-vs-json-what-is-the-difference/
+  content: |
+    If you do any work with application configuration or in the devops domains, you are probably already familiar JSON and/or YAML. Nevertheless, there's something for everyone in this tutorial, particularly around some of the advantages and disadvantages of each, along with a nice side-by-side comparison.
+
+- type: Tutorial
+  title: Anatomy of a Terminal Emulator
+  url: https://www.poor.dev/blog/terminal-anatomy/
+  content: |
+    Even with the entrenchment of GUIs, the command line remains a ubiquitous tool for most developers and, therefore, terminal emulators and related tools are probably second only to text editors when it comes to programmer's passions. But how do they actually work? Perhaps I found this article so intriguing, because my introduction to professional development world was working on the venerable [Procomm Plus](https://en.m.wikipedia.org/wiki/Datastorm_Technologies) software. Nevertheless, everyone can benefit from a basic understanding of how they work and this article does a great job, including copious examples of Rust code to demonstrate the concepts.
+
+- type: Tutorial
+  title: "Blockchain 101: The Simplest Guide You Will Ever Read"
+  url: https://www.velotio.com/engineering-blog/introduction-to-blockchain-and-how-bitcoin-works
+  content: |
+    If you want to understand the basic concepts of blockchain, this simple, brief tutorial is excellent. It discusses examples of common uses for blockchains and gives a walk through of Bitcoin transaction to show how the process works in practice.
+
+- type: Tutorial
+  title: A Visual Guide to Git Internals — Objects, Branches, and How to Create a Repo From Scratch
+  url: https://www.freecodecamp.org/news/git-internals-objects-branches-create-repo/
+  content: |
+    You probably use Git on a daily basis. But, do you know how it works behind the scenes, such as what the commit hashes mean? This tutorial takes some of the mystery away and, in the process, gives you a better conceptualization of the Git paradigm to help make you more productive with it.
+
+- type: Tutorial
+  title: Build your own React
+  url: https://pomb.us/build-your-own-react/
+  content: |
+    The [React](https://reactjs.org/) framework is the most popular front-end framework available. And there are plenty of great tutorials for it, including the [official one](https://reactjs.org/tutorial/tutorial.html). But what is special about this tutorial is that you get to strip back all of the “magic” to see how React does what it does to better understand the architecture and paradigm. Moreover, the author accomplishes this in one single tutorial without skimping on the important details.
+
+- type: Tutorial
+  title: Install Tmux on Git for Windows
+  url: https://dev.to/timothydjones/install-tmux-on-git-for-windows-1cf2
+  content: |
+    I've become a passionate user of and advocate for [Tmux](https://github.com/tmux/tmux/wiki) as a powerful productivity tool. However, my main work environment is Windows and I had struggled to find a clean way to get Tmux working with Git for Windows. Here's a tutorial that gives you the steps to do it. (Disclaimer: This tutorial was written by me.)
+
+- type:
+  title:
+  url:
+  content: |

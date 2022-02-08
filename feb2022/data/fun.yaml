@@ -1,0 +1,40 @@
+---
+- type: item
+  title: "CPC 472: The Computer with Non-Functional RAM"
+  url: https://www.cpcwiki.eu/index.php/472
+  content: |
+    In the 1980s, Amstrad sold a "customized" version of their standard CPC 464 computer, which came with (a whopping!) 64KB of RAM, with an extra 8KB of RAM soldered onto the board. The odd part was that the 8KB RAM chip wasn't connected to anything else and only existed to circumvent a steep Spanish import tariff on computers with 64KB or less of RAM!
+
+- type: item
+  title: The Supersonic Trebuchet
+  url: https://hackaday.com/2021/12/01/supersonic-projectile-exceeds-engineers-dreams-the-supersonic-trebuchet/
+  content: |
+    First of all, I never would have even thought of such a thing. And, even if I had, I'd never have imagined that it was even possible! But this guy designed and built a traditional [trebuchet](https://en.wikipedia.org/wiki/Trebuchet) that can launch projectiles at more than 450 m/s! Watch the video and be amazed.
+
+- type: item
+  title: Emoji to Scale
+  url: https://javier.xyz/emoji-to-scale/
+  content: |
+    Here's a fun little experiment. The designer shows various emojis in relative scale from a mosquito all the way up to the sun. A nice little lesson in relative size and perspective.
+
+- type: item
+  title: This Word Does Not Exist
+  url: https://www.thisworddoesnotexist.com/
+  content: |
+    Another incredible machine learning experiment using the [GPT-2](https://en.m.wikipedia.org/wiki/GPT-2) model to generate realistic words, including definitions and example usages. Each word comes with a unique link, so you can share your new favorite with friends.
+
+- type: item
+  title: Programming Dad Jokes
+  url: https://github.com/wesbos/dad-jokes
+  content: |
+    Okay, I'm a dad, so I'm allowed to include stuff like this in the newsletter. Enjoy this huge list of programming dad jokes. And, yes, most of them are groaners. You have been warned!
+
+- type:
+  title:
+  url:
+  content: |
+
+- type:
+  title:
+  url:
+  content: |

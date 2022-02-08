@@ -1,0 +1,136 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title>{{ data["newsletter_month"] }} Newsletter</title>
+	<meta name="author" content="Tim Jones"/>
+	<meta name="created" content="{{ data['date'] }}"/>
+	<meta name="changed" content="{{ data['date'] }}"/>
+	<style type="text/css">
+		@page { size: 8.5in 11in; margin-right: 1in; margin-top: 1in; margin-bottom: 1in }
+        body {
+            text-decoration-color: #000000;
+            direction: ltr;
+            width: 700px;
+            margin: 0px auto;
+            background-color: #FBFBEF /* #E5E4E2 #eceff1 */;
+        }
+		p { font-family: "Arial", sans-serif; font-size: 11pt; color: #000000; line-height: 130%; orphans: 2; widows: 2; margin-bottom: 0in; direction: ltr; background: transparent }
+        p.indent { padding-left: 0.25in ; }
+        h2 { font-family: "Arial Black", sans-serif; color: #008080; font-size: 20pt; font-weight: 800; line-height: 0.18in; orphans: 2; widows: 2; margin-bottom: 0.04in; direction: ltr; background: transparent; }
+        h2.title { font-style: italic; text-align: center; padding-top: 20px;padding-bottom: 20px;}
+		h3 { font-family: "Arial", sans-serif; color: #0000ff; font-size: 14pt; font-weight: 700; line-height: 0.18in; orphans: 2; widows: 2; padding-top: 0.1in; margin-bottom: 0.04in; direction: ltr; background: transparent; page-break-after: avoid }
+		h4 { font-family: "Noto Sans", sans-serif; font-size: 10pt; font-weight: bold;  color: #595959; line-height: 0.18in; orphans: 2; widows: 2; margin-top: 0in; margin-bottom: 0.06in; direction: ltr; background: transparent; page-break-after: avoid }
+		a:link { color: #0070c0; text-decoration: underline }
+		a:visited { color: #800080; text-decoration: underline }
+	</style>
+</head>
+<body lang="en-US">
+<p><h4><a href="https://swtest.workshopmultimedia.com/">
+    Up to Newsletter Index</a></h4></p>
+<h2 class="title">{{ data["newsletter_month"] }} Newsletter</h2>
+<h3 class="section-heading">Quotable Quotes</h3>
+{% for item in data["quotes"] %}
+    {{ item["body"] }}
+{% endfor %}
+<p><br/> </p>
+
+<h3 class="section-heading">Software Development Process and Methodology</h3>
+<p><br/> </p>
+{% for item in data["development"] %}
+    <h4>{{ item["title"] }}</h4>
+    <p class="indent">{{ item["body"] }}</p>
+    <p class="indent">{{ item["link"] }}</p>
+    <p><br/> </p>
+{% endfor %}
+
+<h3 class="section-heading">Software Testing &amp; Quality</h3>
+<p><br/> </p>
+{% for item in data["testing"] %}
+    <h4>{{ item["title"] }}</h4>
+    <p class="indent">{{ item["body"] }}</p>
+    <p class="indent">{{ item["link"] }}</p>
+    <p><br/> </p>
+{% endfor %}
+
+<h3 class="section-heading">Tutorials/References</h3>
+<p><br/> </p>
+{% for item in data["tutorials"] %}
+    <h4>{{ item["title"] }}</h4>
+    <p class="indent">{{ item["body"] }}</p>
+    <p class="indent">{{ item["link"] }}</p>
+    <p><br/> </p>
+{% endfor %}
+
+<h3 class="section-heading">Career Development/Miscellaneous</h3>
+<p><br/> </p>
+{% for item in data["career"] %}
+    <h4>{{ item["title"] }}</h4>
+    <p class="indent">{{ item["body"] }}</p>
+    <p class="indent">{{ item["link"] }}</p>
+    <p><br/> </p>
+{% endfor %}
+
+{% if ("telecom" in data) and data["telecom"] %}
+<h3 class="section-heading">Telecommunications/Networking Industry</h3>
+<p><br/> </p>
+{% for item in data["telecom"] %}
+    <h4>{{ item["title"] }}</h4>
+    <p class="indent">{{ item["body"] }}</p>
+    <p class="indent">{{ item["link"] }}</p>
+    <p><br/> </p>
+{% endfor %}
+{% endif %}
+
+{% if ("plom" in data) and data["plom"] %}
+<h3 class="section-heading">PLOM (Programming Language of the Month)</h3>
+<p><br/> </p>
+{% for item in data["plom"] %}
+    <h4>{{ item["title"] }}</h4>
+    <p class="indent">{{ item["body"] }}</p>
+    <p class="indent">{{ item["link"] }}</p>
+    <p><br/> </p>
+{% endfor %}
+{% endif %}
+
+{% if ("fbom" in data) and data["fbom"] %}
+<h3 class="section-heading">FBOM (FizzBuzz of the Month)</h3>
+<p><br/> </p>
+{% for item in data["fbom"] %}
+    <h4>{{ item["title"] }}</h4>
+    <p class="indent">{{ item["body"] }}</p>
+    <p class="indent">{{ item["link"] }}</p>
+    <p><br/> </p>
+{% endfor %}
+{% endif %}
+
+<h3 class="section-heading">Useful Utilities</h3>
+<p><br/> </p>
+{% for item in data["utilities"] %}
+    <h4>{{ item["title"] }}</h4>
+    <p class="indent">{{ item["body"] }}</p>
+    <p class="indent">{{ item["link"] }}</p>
+    <p><br/> </p>
+{% endfor %}
+
+{% if ("tips" in data) and data["tips"] %}
+<h3 class="section-heading">Productivity Tips</h3>
+<p><br/> </p>
+{% for item in data["tips"] %}
+    <h4>{{ item["title"] }}</h4>
+    <p class="indent">{{ item["body"] }}</p>
+    <p class="indent">{{ item["link"] }}</p>
+    <p><br/> </p>
+{% endfor %}
+{% endif %}
+
+{% if ("fun" in data) and data["fun"] %}
+<h3 class="section-heading">Just for Fun</h3>
+<p><br/> </p>
+{% for item in data["fun"] %}
+    <h4>{{ item["title"] }}</h4>
+    <p class="indent">{{ item["body"] }}</p>
+    <p class="indent">{{ item["link"] }}</p>
+    <p><br/> </p>
+{% endfor %}
+{% endif %}

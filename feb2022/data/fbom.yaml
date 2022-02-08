@@ -1,0 +1,11 @@
+---
+- type: article
+  title: The Fastest FizzBuzz Implementation
+  url: https://tech.marksblogg.com/fastest-fizz-buzz.html
+  content: |
+    Certainly, it would be difficult to independently confirm whether or not this is indeed the fastest FizzBuzz program, but admittedly output of **56 GB/s** is nothing to sneeze at! This article reviews an assembly language implementation that boasts that level of performance to tease out how it works it magic.
+
+- type:
+  title:
+  url:
+  content: |

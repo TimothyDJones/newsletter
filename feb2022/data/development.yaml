@@ -1,0 +1,42 @@
+---
+- type: article
+  title: Complexity is killing software developers
+  url: https://www.infoworld.com/article/3639050/complexity-is-killing-software-developers.html
+  content: |
+    One of the open secrets in the development world is the exponential growth of complexity of applications, platforms, and systems. In most cases, it is difficult, if not almost impossible, for programmers to have a strong understanding of their systems' architectures. This article claims that the rise of APIs (cloud, serverless, etc.) has pushed teams toward excessive “accidental” complexity. Likewise, large organizations make communication more challenging. The basic upshot of the article is that providers of services need to have more empathy for their consumers, whether they are internal or external to allow simplification at as many levels as possible.
+
+- type: article
+  title: Why Agile rarely works in the Enterprise
+  url: https://medium.com/@gramr/why-agile-rarely-works-in-the-enterprise-816561515549
+  content: |
+    Today, agile development methods are the norm in most organizations. No one wants to say that their team isn't agile! However, in large organizations, agile (often the “big A” agile sold by many consultancies) efforts fall far short of their goals and frequently end up as “waterfall with stand ups”. This article looks at several of the pitfalls and some concrete suggestions for how to fix these problems. How many of these do you recognize in your own organization or team?
+
+- type: article
+  title: Great engineering teams focus on milestones instead of projects
+  url: https://www.rubick.com/milestones-not-projects/
+  content: |
+    Why do some teams just seem to perform better than others? This author says that teams that emphasize accomplishing clear, well-defined milestones that provide some specific business value. This allows the team to adapt more easily and for the team to break the project into more manageable "chunks" of work. In turn, both the project team and customers can see measurable progress toward the larger goal.
+
+- type: article
+  title: Don't start with microservices – monoliths are your friend
+  url: https://arnoldgalovics.com/microservices-in-production/
+  content: |
+    Doubtless, this article is destined to inspire controversy. Nevertheless, the author makes several strong points in favor of introducing microservices later in the lifecycle of your project, after you've stabilized the overall architecture and identified the places where they make sense. To be sure, he is not anti-microservices; instead, he simply advocates taking a balanced approach to how they are used.
+
+- type: article
+  title: Agile is Dead, McKinsey Just Killed It
+  url: https://terem.tech/agile-is-dead/
+  content: |
+    In a _very_ similar vein to the article above, this article shows how the adoption of “enterprise agile”, especially as provided by consultancies, such as McKinsey in this case, have essentially left the whole agile concept often without meaning. The article discusses how McKinsey touts their offering of overarching management of the agile process and organization, which is the antithesis of principles of the Agile Manifesto.
+
+- type: article
+  title: Writing Maintainable Code Is a Communication Skill
+  url: https://max.engineer/maintainable-code
+  content: |
+    You may remember early in your career that you focused on delivering your application above all else. As you gained experience, you started to understand that so much else matters, including maintainability. This author explains that maintainability is primarily the skill of communicating both your intent and any trade-offs or special constraints that you had to take into account.
+
+- type: article
+  title: Tasking developers with creating detailed estimates is a waste of time/money
+  url: https://iism.org/article/is-tasking-developers-with-creating-detailed-estimates-a-waste-of-company-money-42
+  content: |
+    Many of you have probably heard of the so-called [#NoEstimates “movement”](https://duckduckgo.com/?q=%23noestimates+movement&t=h_&ia=web) in the software development milieu. This article, however, is not against estimates, but rather against having developers spend time trying to do **detailed** estimation on work that inevitably requires much additional discovery to complete successfully. The author emphasizes that estimates should be based on accurate historical data for similar efforts (size, complexity, technology, team, etc.) and, most importantly, that the overall estimate is **not** a definitive completion date for the project.

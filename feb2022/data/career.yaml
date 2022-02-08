@@ -1,0 +1,52 @@
+---
+- type: article
+  title: Happiness and the productivity of software engineers
+  url: https://docs.google.com/viewer?url=https://arxiv.org/ftp/arxiv/papers/1904/1904.08239.pdf
+  content: |
+    How do you optimize for happiness and productivity of technical staff in your organization? And are happiness and productivity correlated well? This research has some interesting insights, but they don't reach much in the way of conclusions about the effect, if any, of developer happiness on productivity.
+
+- type: article
+  title: Tech Sector Job Interviews Assess Anxiety, Not Software Skills
+  url: https://news.ncsu.edu/2020/07/tech-job-interviews-anxiety/
+  content: |
+    Technical interviewing often strikes fear in the heart of job candidates. Recent research shows that whiteboard interviews provide little in the way of assessment of technical skill and job fit and, instead, mostly measures the candidate's anxiety. Moreover, researchers found that interviewers often demonstrated subtle bias in the such was as giving easier problems to preferred candidates.
+
+- type: article
+  title: I have no idea what I'm doing
+  url: https://surfingcomplexity.blog/2021/11/28/i-have-no-idea-what-im-doing/
+  content: |
+    Authenticity is the fundamental value of the millennial generation (or so I'm told). The technology industry is going through the growing pains of transition from one dominated by Baby Boomers and Gen X to Millennials and one of the latest fronts appears to be with respect to disclosure about one's own shortcomings. This article and the others cited in it show how development changes so quickly that even the most skilled have difficulty keeping up and that perhaps everyone needs to extend some mercy and grace to others instead of questioning their motives or, even worse, fundamental abilities. The better choice is to come along side and provide help and support.
+
+- type: article
+  title: The Chip That Changed the World
+  url: https://www.wsj.com/articles/the-chip-that-changed-the-world-microprocessor-computing-transistor-breakthrough-intel-11636903999
+  content: |
+    To little fanfare, in November 1971, Intel introduced the first _**commercial**_ microprocessor: the 2300-transistor, 4-bit [4004](https://en.wikipedia.org/wiki/Intel_4004). It was the beginning of a revolution in technology unlike the world has ever seen and became the driver for the generation of most of the world's wealth over the past 50 years.
+
+- type: article
+  title: Accountability in Software Development
+  url: https://medium.com/@kentbeck_7670/accountability-in-software-development-375d42932813
+  content: |
+    One of the hallmarks of professional practices is accountability. In this essay, Kent Beck, pioneer of ["extreme programming"](https://en.wikipedia.org/wiki/Extreme_programming), explains how personal accountability is fundamental to successful development work. In particular, he explores how the day-to-day tools, such as estimates (when used properly!), TDD and unit tests, and continuous integration, that we use are visible ways of demonstrating accountability to our teammates and stakeholders.
+
+- type: article
+  title: The many gifts of awkward silence
+  url: https://jessicahagy.substack.com/p/the-many-gifts-of-awkward-silence
+  content: |
+    We've all been there: We're asked a question that we simply don't want to answer. So what do you do? This author provides ten excellent reasons (she calls them "wins"!) to just sit quietly in the awkward silence. Definitely not easy, but when you see these reasons, you'll understand the power that silence wields.
+
+- type: article
+  title: "How to Think: The Skill You've Never Been Taught"
+  url: https://fs.blog/how-to-think/
+  content: |
+    At the most basic level, most technical jobs are about solving problems. Accordingly, the most important skill is critical thinking: How do you identify the relevant factors among all that exist and synthesize a reasonable solution? This article provides practical guidance on good decision-making with the key insight it takes time and focused effort.
+
+- type:
+  title:
+  url:
+  content: |
+
+- type:
+  title:
+  url:
+  content: |

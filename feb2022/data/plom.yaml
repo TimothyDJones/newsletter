@@ -1,0 +1,11 @@
+---
+- type: article
+  title: Coconut
+  url: https://github.com/evhub/coconut
+  content: |
+    Coconut is a functional programming language that compiles to Python. Any valid Python program is also a valid Coconut program, so it provides a gentle transition to functional programming for the Python developer. Its stated goal is to be simple, elegant, and Pythonic and its syntax is similar to Haskell. Some of the most salient features include more natural lambda functions, pipeline-style programming, (pre-Python 3.10) native pattern matching, function composition, lazy lists, and [algebraic data types](https://jrsinclair.com/articles/2019/algebraic-data-types-what-i-wish-someone-had-explained-about-functional-programming/). You can get a taste for it in the REPL on the language [home page](https://coconut-lang.org/) or [read the tutorial](https://coconut.readthedocs.io/).
+
+- type:
+  title:
+  url:
+  content: |

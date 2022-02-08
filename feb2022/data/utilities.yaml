@@ -1,0 +1,29 @@
+---
+- type: item
+  title: Winpad Layout (Free &#8212 Windows XP/7/8.x/10 &#8212 14kB)
+  url: https://github.com/nafest/winpad_layout
+  content: |
+    Winpad Layout is a tiny Windows utility that allows you to quickly arrange windows via the numeric keypad. You simply use <Ctrl> and then tap two numbers on the keypad to move and resize the current focus window across a virtual 3x3 grid of the desktop.
+
+- type: item
+  title: VS Code REST Client (Free &#8212 Cross-platform/Typescript &#8212 N/A)
+  url: https://github.com/Huachao/vscode-restclient/
+  content: |
+    This handy extension for [VS Code](https://code.visualstudio.com/) allows you to make REST service calls from within the editor and then view the response in a separate pane with syntax highlighting. Some of the other nice features include support for cURL, ability to generate language-specific service calls for Python, JavaScript, etc., and even support for SOAP calls.
+
+- type: item
+  title: IfilterShellView (Free &#8212 Windows 10/11 &#8212 2.12MB)
+  url: https://github.com/Aeindus/IFilterShellView
+  content: |
+    IfilterShellView is a very useful Windows Explore shell extension that provides expanded flexibility for filtering and searching for files. It supports multiple criteria including one or more of various attributes (dates/times, including ranges, size, file type, file extension, etc.) and file name, including wildcards and regular expressions. In addition, it provides a command palette of the available commands/options and history of most recent searches.
+
+- type: item
+  title: PlantText (Free &#8212 Online Tool &#8212 N/A)
+  url: https://www.planttext.com/
+  content: |
+    PlantText is an online version of the popular [PlantUML](https://plantuml.com/) diagram editor. Accordingly, it has excellent support for many types of UML diagrams, including activity/sequence, class, and component diagrams. In addition, other diagram types, such as mind maps, Gantt charts, and digital timing diagrams, are also supported. Each diagram can be exported as image (SVG or PNG) or saved in it's native text format.
+
+- type:
+  title:
+  url:
+  content: |

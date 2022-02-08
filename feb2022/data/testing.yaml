@@ -1,0 +1,29 @@
+---
+- type: article
+  title: Common Misconceptions About Exploratory Testing
+  url: https://www.ministryoftesting.com/dojo/lessons/common-misconceptions-about-exploratory-testing
+  content: |
+    Exploratory testing is, at once, one of the most challenging and simple types of testing. However, many people, especially outside of testing, have the notion that it is unstructured and ad hoc. This article debunks several of the common misunderstandings about this important testing approach.
+
+- type: article
+  title: A Complete Guide to Negative Testing in Software Testing
+  url: https://blog.qasource.com/a-complete-guide-to-negative-testing-in-software-testing
+  content: |
+    In software testing, we typically focus on verification and validation of application functionality and performance. However, it's also important to perform so-called “negative” tests to ensure that the system doesn't do things that we don't intend, as well. This article looks at several aspects of negative testing and provides a nice framework for how to include it in your testing regime.
+
+- type: article
+  title: If Apple keeps letting its software slip, the next big thing won’t matter
+  url: https://www.macworld.com/article/551393/apple-software-problems-regions-memories-bugs.html
+  content: |
+    Apple has recently faced several high-profile software problems, such as the [substantial memory leak in the new macOS Monterey](https://eclecticlight.co/2021/11/15/montereys-memory-leak-and-how-to-avoid-it/). But many pundits and insiders think that poor quality software has become endemic and is beginning to overshadow the technological improvements the company makes. Perhaps this should be a cautionary tale to all organizations about the value and importance of software quality.
+
+- type: article
+  title: "A Submarine's Weakness: Its Software?"
+  url: https://fixvms.com/
+  content: |
+    When you spend $3 billion on a top-of-the-line warship, you (as a taxpayer) would expect it to have the best navigation software in the world, wouldn't you? Unfortunately, the US Navy [Seawolf-class submarines](https://en.wikipedia.org/wiki/Seawolf-class_submarine) have software far less sophisticated than what you have on your phone. And this led to a [recent accident involving the USS Connecticut](https://www.cnn.com/2021/11/04/asia/submarine-uss-connecticut-accident-undersea-mountain-hnk-intl-ml-dst/index.html), in which the submarine attempted to dive below the level of the sea floor due (at least in part) to defective software.
+
+- type:
+  title:
+  url:
+  content: |
