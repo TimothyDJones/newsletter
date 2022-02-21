@@ -1,6 +1,17 @@
 ---
+- type: Tutorial
+  title: How does UTF-8 turn "😂" into "F09F9882"?
+  url: https://sethmlarson.dev/blog/utf-8
+  content: |
+    Character encodings have become more important to developers, regardless of what role you have, especially as emojis have exploded in use. Many articles about [UTF-8](https://en.wikipedia.org/wiki/UTF-8) encoding are highly technical. This article gives you a sound understanding of the technical details without getting into many of the esoteric aspects.
+
+- type: Tutorial
+  title: https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port/
+  url: What does it mean to listen on a port?
+  content: |
+    Most technical professionals have a basic conceptual understanding of "ports" in the context of TCP/IP networking, such as that port 80 is the standard port for HTTP. This article, in the form of a fictional conversation, explores the details of how server applications "listen" on ports and respond appropriately using simple Python examples.
+
 - type:
   title:
   url:
   content: |
-

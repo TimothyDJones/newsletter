@@ -1,6 +1,11 @@
 ---
+- type: article
+  title: The Patriot Missile Failure
+  url: https://www-users.cse.umn.edu/~arnold/disasters/patriot.html
+  content: |
+    Thankfully, most of us don't work on applications that have life-and-death consequences when a failure occurs. Nevertheless, as this example shows, seemingly insignificant decisions that we make in development or insufficient requirements or testing can lead to catastrophic results. How do you ensure that you have a good understanding of system boundaries and use cases for testing?
+
 - type:
   title:
   url:
   content: |
-

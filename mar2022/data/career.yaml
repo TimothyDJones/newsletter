@@ -1,6 +1,17 @@
 ---
+- type: article
+  title: Notes apps are where ideas go to die. And that's good.
+  url: https://reproof.app/blog/notes-apps-help-us-forget
+  content: |
+    My memory isn't what it used to be, so I often write things down in text files. [Research shows](https://www.lifehack.org/articles/featured/writing-and-remembering-why-we-remember-what-we-write.html) that the simple act of writing something down helps us remember it. This article presents an interesting paradox in that writing down ideas also frees our minds to concentrate on matters of more importance and value. This simple act can lead to more creativity and innovation. So maybe the next time you can't decide if you should write it down or not, just write it down anyway so your brain can work on something more interesting!
+
+- type: article
+  title: Don't point out something wrong immediately
+  url: https://blog.the-pans.com/wrong/
+  content: |
+    Many (most?) of us tend to quickly note errors made by others. This author explains that this is not always the best approach, due to the damage it can do to relationships with customers and coworkers. Instead, pause and give the other party a chance to discover the problem and _yourself_ some time to consider the best way to address the matter, if it's still a problem.
+
 - type:
   title:
   url:
   content: |
-

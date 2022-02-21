@@ -1,6 +1,29 @@
 ---
+- type: article
+  title: We sound like idiots when we talk about technical debt
+  url: https://www.cyclic.sh/posts/we-sound-like-idiots-when-we-talk-about-technical-debt
+  content: |
+    Most development teams struggle with [technical debt](https://blog.devgenius.io/tech-debt-explained-for-everyone-2920fff97416). However, the main difficulty often is with convincing our business counterparts and management to address it, so much so that we often bolster their perception that we don't understand the business. This author eloquently explains that technical teams _must_ speak the language of business in presenting the case to remedy technical debt.
+
+- type: article
+  title: How to manage software developers without micromanaging
+  url: https://www.infoworld.com/article/3649773/how-to-manage-software-developers-without-micromanaging.html
+  content: |
+    You may remember this craze/fad from a few years back called [_holocracy_](https://en.wikipedia.org/wiki/Holacracy) where management authority was completely distributed throughout the organization. I don't recall how well it worked out, but I never heard much about after it's zenith around 2015. All organizations need some sort of structure, even if individuals tend to bristle at _too_ much of it and technical workers especially prefer autonomy in their work. This article presents seven practices that managers can use to provide an appropriate balance between support and micromanagement.
+
+- type: article
+  title: https://www.codewithjason.com/when-i-do-tdd-and-when-i-dont/
+  url: When I do TDD and when I don’t
+  content: |
+    Undoubtedly, test-driven development (TDD) is a useful and valuable practice. However, many practioners get quite dogmatic about it and claim you should use it in all instances. This author offers some good balance about appropriate use cases and situations where it simply doesn't make sense.
+
+- type: article
+  title: Famous Laws of Software Development
+  url: https://www.timsommer.be/famous-laws-of-software-development/
+  content: |
+    All fields of human endeavor have certain jargon and that includes certain aphorims particular to a given domain. Here are some of the "laws" common to programming and software development. You'll find several familiar, but some that you likely haven't heard of, as well.
+
 - type:
   title:
   url:
   content: |
-
